@@ -1,0 +1,14 @@
+# Step 1: chunking (gst_chunk.py)
+pymupdf
+beautifulsoup4
+
+# Step 2: embedding (gst_embed.py)
+numpy
+sentence-transformers
+
+# Step 3: Qdrant upload and search (later)
+qdrant-client
+python-dotenv
+
+# Step 5: answers with Groq (later)
+groq

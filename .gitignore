@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+chat_history.json
+chunks/
+gst_knowledge_base/
+missing_files.csv
