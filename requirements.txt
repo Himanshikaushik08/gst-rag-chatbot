@@ -1,14 +1,18 @@
-# Step 1: chunking (gst_chunk.py)
+# Reading the PDFs and chunking
 pymupdf
 beautifulsoup4
 
-# Step 2: embedding (gst_embed.py)
+# Embeddings
 numpy
 sentence-transformers
 
-# Step 3: Qdrant upload and search (later)
+# Vector database and settings
 qdrant-client
 python-dotenv
 
-# Step 5: answers with Groq (later)
-groq
+# Language models
+groq        # cloud backend
+requests    # local backend (Ollama)
+
+# App
+streamlit
