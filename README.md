@@ -168,4 +168,6 @@ This project is for learning and information only. The answers are generated fro
 
 ## Author
 
-**[Your Name]**: [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+**[Himanshi Kaushik]**: 
+[LinkedIn](https://www.linkedin.com/in/himanshi-kaushik/) 
+[GitHub](https://github.com/Himanshikaushik08)
